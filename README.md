@@ -1,0 +1,2 @@
+# Analyzing-Ola-Ride-Data-with-Power-BI-Turning-Raw-Data-into-Actionable-Insights
+Here’s a sneak peek at the dashboard: [Insert screenshot of Power BI dashboard]  Building this dashboard helped me strengthen my data visualization, storytelling, and business intelligence skills.  What’s your favorite visualization tool – Power BI, Tableau, or Excel? Drop your thoughts below!  #PowerBI #DataAnalytics #Excel #OlaCabs #Dashboard 
